@@ -29,7 +29,7 @@ weight = 5
 [[education.courses]]
   course = "HBSc in Applied Bio-Molecular Science"
   institution = "Lakehead University"
-  year = 2015
+  year = 2014
 
  
 +++
